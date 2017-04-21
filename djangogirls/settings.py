@@ -25,7 +25,7 @@ SECRET_KEY = '0qcgx$q@*c82@=jyr@b($jfz5ma&&+b+oi!2zm)s3t-di9=3y*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['melrouse.pythonanywhere.com']
 
 
 # Application definition
